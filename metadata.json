@@ -1,0 +1,7 @@
+{
+  "name": "NavalnyGPT",
+  "description": "An intelligent, truth-seeking AI assistant featuring the legendary Chair mode, multi-language support, and a modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
